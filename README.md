@@ -6,7 +6,7 @@ I am a coding enthusiast specializing in Python development with expertise in My
 
 I am currently diving into Bash and Go, eager to explore languages like Ruby, Perl, Rust, and more. My goal is to deepen my understanding of these languages to broaden my expertise and contribute meaningfully to the cybersecurity field.
 
-### Social media: 📡    
+### <!-- Social media: 📡     -->
 <!-- Join me on Telegram, where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me. 
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/from_the_teapot_to_the_investor) -->
